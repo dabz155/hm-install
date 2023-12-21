@@ -125,7 +125,7 @@ main() {
   current_hydrogen_exec="https://cdn.discordapp.com/attachments/1043972790266626179/1138955433609003149/Hydrogen.app.zip"
   #############################################################################################################################
 
-  download_file "$current_hydrogen_exec" "$HOME/hydrogen.zip" "Downloading Hydrogen..." "Hydrogen has been downloaded!" "Failed to download the latest Hydrogen version. Please check your internet connection and try again."
+  download_file "$current_hydrogen_exec" "$HOME/hydrogen.zip" "Downloading Hydrogen..." "Hydrogen has been downloaded dumb nigger" "Failed to download the latest Hydrogen version. Please check your internet connection and try again."
 
   unzip_file "$HOME/hydrogen.zip" "$HOME/hydrogen_unzip" "Unzipping Hydrogen..." "Unzipped Hydrogen!" "Failed to unzip Hydrogen."
 
